@@ -1,0 +1,17 @@
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\C#\CALCULADORA\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\C#\CALCULADORA\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\C#\CALCULADORA\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\C#\CALCULADORA\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\C#\CALCULADORA\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio2\C#\CALCULADORA\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
